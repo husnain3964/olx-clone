@@ -1,0 +1,38 @@
+
+.header{
+background-color: red;
+}
+
+.fotor{
+  background-color: green;
+}
+.app{
+  background-color: blue;
+}
+
+
+
+.mainheading{
+  color: white;
+  background-color: black;
+  text-align: center;
+
+
+}
+.input{
+  border: none;
+  border-bottom: 5px solid black;
+  color:black;
+  
+  text-align: center;
+}
+
+
+
+.button{
+  border: none;
+  border-bottom: 5px solid black;
+  background-color: white;
+  margin: 5px;
+  
+}
